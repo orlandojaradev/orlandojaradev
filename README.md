@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Me llamo Orlando Jara</h1>
 <h3 align="center">Programador apasionado</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/orlandojaradev/](https://www.linkedin.com/in/orlandojaradev/)
+- 👨‍💻 All of my projects are available at [https://orlandojaradev.github.io/mi_portafolio/](https://orlandojaradev.github.io/mi_portafolio/)
 
 - 💬 Ask me about **HTML, CSS, Javascript y ReactJS**
 
